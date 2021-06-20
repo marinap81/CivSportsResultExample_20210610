@@ -37,6 +37,7 @@ namespace CivSportsResultExample_20210610
 
             System.Console.WriteLine($"Winner game1 : {game1.GetWinnerName()}");
             System.Console.WriteLine($"{game1.TeamA.Name} scored {game1.PointsTeamA} | {game1.TeamB.Name} scored {game1.PointsTeamB}" );
+            /*added note*/
         }
     }
 }
